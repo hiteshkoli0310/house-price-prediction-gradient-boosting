@@ -86,9 +86,9 @@ These numbers are illustrative; they may vary with environment, preprocessing de
 
 ```
 banglore_house_price_prediction/
-├── Bengaluru_House_Data (1).csv        # Kaggle dataset (rename or update path in the notebook)
-├── house_price_prediction.ipynb        # End-to-end workflow (ETL → model → evaluation → inference)
-└── README.md                           # You are here
+├── Bengaluru_House_Data (1).csv       
+├── house_price_prediction.ipynb        
+└── README.md                          
 ```
 
 ## Tips & troubleshooting
